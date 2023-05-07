@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "fastai-star-wars-classifier-toy"
+  site-url: "https://atorma.github.io/fastai-star-wars-classifier-toy"
+  description: "Just a toy project for the fastai deep learning course"
+  repo-branch: main
+  repo-url: "https://github.com/atorma/fastai-star-wars-classifier-toy"
