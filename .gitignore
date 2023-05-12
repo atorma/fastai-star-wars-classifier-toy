@@ -1,3 +1,5 @@
+star-wars-characters
+
 _docs/
 _proc/
 
@@ -9,6 +11,7 @@ _proc/
 *.log
 *~
 ~*
+
 _tmp*
 tmp*
 tags
@@ -149,3 +152,4 @@ checklink/cookies.txt
 
 # Quarto
 .quarto
+
